@@ -130,3 +130,6 @@ dmypy.json
 
 # venv
 cifar10/
+
+# CIFAR 10 dataset
+cifar10_dataset/
