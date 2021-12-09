@@ -1,4 +1,6 @@
+Pillow==8.4
 torch
 torchvision
 numpy
 matplotlib
+jupyterlab
