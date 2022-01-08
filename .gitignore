@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# venv
+cifar10/
+
+# CIFAR 10 dataset
+cifar10_dataset/
